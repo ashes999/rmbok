@@ -6,6 +6,7 @@ It takes a lot of work to make a polished, unique RPG Maker game. But, this make
 # Regardless of RPG Maker Type
 
 - **Create memorable characters.** Use [this excellent guide](http://www.rpgalchemy.com/how-to-make-memorable-player-characters-in-thirty-minutes-or-less/) to create really memorable characters -- at least for your main hero/villan.
+- **Create a unqiue universe.** Every fantasy/sci-fi games (and even some modern ones) use elements that are unique to their in-game universe. Create some of these, even if they're simple (eg. talking pet avatars that reflect each human's personality) and don't affect the plot much.
 - **Create a custom protagonist sprite.** The player sees this character the most. Don't use standard RPG ones. Generator ones are okay in a pinch. 
 - **Use [ResHacker](http://www.angusj.com/resourcehacker/) to add a custom icon to your final executable.** This is [officially sanctioned](http://forums.rpgmakerweb.com/index.php?/topic/11436-replacing-the-game-icon/#comment-117318).
 - **Customize the message window.** Changing the colour is good. Changing the border too is even better.
